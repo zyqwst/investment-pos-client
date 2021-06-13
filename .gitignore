@@ -1,0 +1,22 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Maven template
+<<<<<<< HEAD
+*.iml
+.idea
+=======
+.idea
+*.iml
+>>>>>>> dev
+controller-plus-admin/src/test/
+controller-plus-admin/target/
+controller-plus-api/target/
+controller-plus-api/src/test/
+controller-plus-common/target/
+controller-plus-common/src/test/
+controller-plus-core/target/
+controller-plus-core/src/test/
+/logs/
+/.idea/
+.idea/workspace.xml
+.DS_Store
+*/.DS_Store
